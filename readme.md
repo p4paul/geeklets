@@ -12,3 +12,4 @@ Some of the GeekLets require Perl scripts and a few Perl libraries.  Use CPAN to
     install Filesys::Df
     install Net::Curl::Easy
 
+See https://www.tynsoe.org/v2/geektool/
